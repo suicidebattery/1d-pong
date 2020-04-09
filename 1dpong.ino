@@ -1,6 +1,6 @@
 #include <Adafruit_NeoPixel.h>
 
-#define PIXELS 60//was 30
+#define PIXELS 60
 #define SPEEDUP 100
 #define LED_PIN 13
 #define BUTTON1_PIN A3
